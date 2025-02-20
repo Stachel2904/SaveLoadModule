@@ -1,0 +1,14 @@
+{
+  "name": "com.divineskies.saveloadmodule",
+  "displayName": "DS Save Load Module",
+  "version": "0.1.0",
+  "description": "Module to easily save and load data",
+  "dependencies": {
+  },
+  "relatedPackages": {
+  },
+  "repository": {
+    "url": "https://github.com/Stachel2904/SaveLoadModule.git",
+    "type": "git"
+  }
+}
