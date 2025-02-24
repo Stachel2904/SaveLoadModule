@@ -1,7 +1,9 @@
 {
     "name": "DivineSkies.SaveLoadModule",
     "rootNamespace": "DivineSkies.SaveLoadModule",
-    "references": [],
+    "references": [
+        "GUID:ca52d05b76b2a144c9e946dd79c41433"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
